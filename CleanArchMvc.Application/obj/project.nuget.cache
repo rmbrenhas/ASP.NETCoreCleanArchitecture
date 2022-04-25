@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "o6ThqwQcUyJ+sdfE4iDAeD3ulN9RcTRdzC8Z3ibQvfOuMT6OtjVUmhKs+uXEclOs0IoOcVLh57oB16SUSyrQ0g==",
+  "dgSpecHash": "+3+oQoo9WaObnG1qzalRdXmDgqRhwoD8U4rxvkcmvTjiu3ikUJ5ramfAbmE7FAz59J0jvOPZGhilNmWk95iRSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Ambiente de Trabalho\\CleanArchitecture\\CleanArchMvc_20042022\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
